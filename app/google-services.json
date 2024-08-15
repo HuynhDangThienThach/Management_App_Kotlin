@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "738332746179",
+    "firebase_url": "https://usermanagement-d0d86-default-rtdb.firebaseio.com",
+    "project_id": "usermanagement-d0d86",
+    "storage_bucket": "usermanagement-d0d86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738332746179:android:bfbbd81531d95526e39d76",
+        "android_client_info": {
+          "package_name": "com.example.usermanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdn_Az5n1oC03FYGVAqnWAxd_3Ztpx7Ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
